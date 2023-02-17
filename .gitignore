@@ -1,0 +1,3 @@
+*.bkp
+__pycache__
+.venv
